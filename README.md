@@ -1,2 +1,2 @@
 # html-study
-# css-checkpoint
+A study on analyzing different html classes.
